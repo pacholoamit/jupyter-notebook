@@ -16,9 +16,12 @@ colorama=0.4.6=pyhd8ed1ab_0
 cryptography=38.0.4=py310h23bb4e6_0
 dataclasses-json=0.5.7=pyhd8ed1ab_0
 et_xmlfile=1.1.0=pyhd8ed1ab_0
+filelock=3.12.0=pypi_0
 frozenlist=1.3.3=py310h90acd4f_0
+fsspec=2023.4.0=pypi_0
 gptcache=0.1.19=pyhd8ed1ab_0
 greenlet=2.0.2=py310h7a76584_0
+huggingface-hub=0.14.1=pypi_0
 idna=3.4=pyhd8ed1ab_0
 langchain=0.0.149=pyhd8ed1ab_1
 libblas=3.9.0=16_osx64_openblas
